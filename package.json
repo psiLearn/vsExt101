@@ -16,8 +16,9 @@
     "contributes": {
         "commands": [
             {
-                "command": "extension.sayHello",
-                "title": "Hello World"
+                "command": "vsExt101.startWebView",
+                "title": "start a WebView",
+                "category": "vsExt101 Extension"
             }
         ]
     },
