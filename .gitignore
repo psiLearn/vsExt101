@@ -1,7 +1,7 @@
 node_modules
+paket-files
+out
 .vscode-test/
 *.vsix
-paket-files
 .paket/
-out
 paket.lock
