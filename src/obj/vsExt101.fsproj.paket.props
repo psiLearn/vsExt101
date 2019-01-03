@@ -13,8 +13,8 @@
         <PackageReference Include="Fable.Core">
             <Version>2.0.3</Version>
         </PackageReference>
-        <PackageReference Include="Fable.Import.VSCode">
-            <Version>0.1.2</Version>
+        <PackageReference Include="Fable.Import.Node">
+            <Version>0.4.3</Version>
         </PackageReference>
         <PackageReference Include="Fable.Parsimmon">
             <Version>3.2</Version>

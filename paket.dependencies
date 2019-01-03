@@ -6,7 +6,9 @@ framework: netstandard2.0
 github nojaf/fable-jest:fable2 fable/Bindings.fs  
 github nojaf/fable-jest:fable2 fable/Exports.fs  
 github nojaf/fable-jest:fable2 fable/Matchers.fs  
+github psiLearn/fable-import VSCode/Fable.Import.VSCode.fs
 nuget FSharp.Core redirects:force  
-nuget Fable.Import.VSCode  
+//nuget Fable.Import.VSCode  
+nuget Fable.Import.Node
 nuget Fable.Parsimmon  
 nuget Fable.Core

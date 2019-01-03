@@ -1,6 +1,8 @@
-Fable.Import.VSCode  
+FSharp.Core
 Fable.Core
 Fable.Parsimmon  
+Fable.Import.Node
 File:Bindings.fs Jest  
 File:Exports.fs Jest  
 File:Matchers.fs Jest  
+File:Fable.Import.VSCode.fs 
